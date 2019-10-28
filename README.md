@@ -1,4 +1,4 @@
-# Data_for_reproducibility
+# Simulated data for benchmark reproducibility
 
 This repository provides access to simulated datasets from the study:
 
